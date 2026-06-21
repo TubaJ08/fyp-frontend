@@ -21,7 +21,6 @@ const Navbar = () => {
         <Link to="/faq" className="hover:text-blue-600 transition-colors duration-200">FAQ</Link>
         <Link to="/blog" className="hover:text-blue-600 transition-colors duration-200">Blog</Link>
         <Link to="/contact" className="hover:text-blue-600 transition-colors duration-200">Contact</Link>
-        <Link to="/admin/login" className="hover:text-blue-600 transition-colors duration-200">Dashboard</Link>
       </div>
 
       {/* Right - Auth Buttons */}
